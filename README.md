@@ -1,8 +1,9 @@
 ** ASTEROIDS **
+
 Completed using PyGame following a guide from boot.dev.
 
 
-![Game Play](Asteroids.png)
+![Game Play](Asteroids3.png)
 
 Potential Future Improvements:
 - Add a scoring system
