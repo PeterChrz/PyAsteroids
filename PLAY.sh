@@ -11,7 +11,8 @@ check_python() {
 # Check for Python 3
 check_python
 
-
+# Enable Virtual ENV
 . venv.sh
 
+# Play Game
 python3 main.py
